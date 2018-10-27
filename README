@@ -1,0 +1,1 @@
+Este programa envia datos de una seccion critica de un proceso productor a otro consumidor sincronizado mediante semaforos atravez de pipes, los cuales almacenan los datos producidos en archivos .txt
